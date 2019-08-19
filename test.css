@@ -1,24 +1,29 @@
 
 body{
-	background-color: lightgrey !important;
+	background-color: lightblue !important;
 }
 
 h1{
-	color: orange;
+	color: #FF0000; 
 	font-size: 90px;
 	text-decoration: underline;
 }
 
 #first{
 	font-size: 150px; 
+	text-align: center;
 }
 				
 	.small{
-		font-size:12px;
+		font-size:20px;
 }
 
+	.Medium{
+		font-size: 35px 
+	}
+
 h2{
-	color: aqua;
+	color:#FF0000;
 	font-size: 22px;
 }
 
