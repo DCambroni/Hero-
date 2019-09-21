@@ -34,3 +34,8 @@ span{
 h2 span{
 	text-decoration: line-through;
 }
+a{
+	text-align: center;
+	font-style: initial;
+	color: blue;
+}
